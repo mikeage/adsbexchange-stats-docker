@@ -1,0 +1,2 @@
+UUID_FILE=/run/uuid
+JSON_PATHS=("/run/readsb")

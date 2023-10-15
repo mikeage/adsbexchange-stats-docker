@@ -1,3 +1,5 @@
+# Update -- deprecated. UF includes support for the stats package now
+
 # ADSB Exchange stats for Ultrafeeder
 
 ## Building the container
